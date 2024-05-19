@@ -1,4 +1,4 @@
-package oddeven2;
+package oddeven;
 import java.io.*;
 import java.util.*;
 import org.apache.hadoop.mapred.*;
